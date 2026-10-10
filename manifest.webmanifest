@@ -1,0 +1,19 @@
+{
+  "name": "词芽芽 · WordSprout",
+  "short_name": "词芽芽",
+  "description": "每天5个英语词组，日常、新能源汽车、矿山工程",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8eb",
+  "theme_color": "#fff8eb",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
