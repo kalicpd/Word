@@ -241,8 +241,51 @@ function mark(id,result){const word=lookup(id);if(!word)return;const r=getRecord
 state.records[id]={...r,seen:true,repetitions:repeat,interval,due:addDays(today(),interval),last:today(),lastResult:result};
 if(tab==='today'){if(!state.daily[today()])state.daily[today()]={};state.daily[today()][id]=result;}
 saveStore();render();toast(result==='easy'?`✨ 已学会，${interval} 天后复习`:'🌼 已安排明天再练');}
-function speak(t){if(!('speechSynthesis'in window)||!('SpeechSynthesisUtterance'in window)){toast('当前环境不支持语音，请在 Safari 或 Chrome 打开');return;}
-try{const synth=window.speechSynthesis;synth.cancel();const u=new SpeechSynthesisUtterance(t);u.lang=state.settings.accent||'en-US';u.rate=Number(state.settings.rate)||.83;u.pitch=1.02;const vs=synth.getVoices();const chosen=vs.find(v=>v.lang.toLowerCase()===u.lang.toLowerCase()&&v.localService)||vs.find(v=>v.lang.toLowerCase()===u.lang.toLowerCase())||vs.find(v=>v.lang.toLowerCase().startsWith('en'));if(chosen)u.voice=chosen;u.onerror=()=>toast('朗读失败，请检查系统英语语音包和声音设置');synth.speak(u);}catch(e){toast('朗读未启动，请尝试 Safari / Chrome');}}
+// Keep the utterance referenced: some mobile WebKit versions otherwise stop it early.
+let activeUtterance=null;
+let speechRequest=0;
+let speechStarted=false;
+function speak(t){
+ if(!('speechSynthesis' in window)||!('SpeechSynthesisUtterance' in window)){
+  toast('此浏览器不支持系统朗读，请尝试 Safari');return;
+ }
+ const synth=window.speechSynthesis;
+ const request=++speechRequest;
+ try{
+  // Explicit user gesture enters here; do not defer the initial speak to a timer.
+  synth.cancel();
+  const u=new SpeechSynthesisUtterance(t);
+  activeUtterance=u;
+  speechStarted=false;
+  u.lang=state.settings.accent||'en-US';
+  u.rate=Number(state.settings.rate)||0.83;
+  u.pitch=1;
+  u.volume=1;
+  const voices=synth.getVoices();
+  const preferred=voices.find(v=>v.lang.toLowerCase()===u.lang.toLowerCase()&&v.localService)
+   ||voices.find(v=>v.lang.toLowerCase()===u.lang.toLowerCase())
+   ||voices.find(v=>v.lang.toLowerCase().startsWith('en')&&v.localService)
+   ||voices.find(v=>v.lang.toLowerCase().startsWith('en'));
+  if(preferred)u.voice=preferred;
+  u.onstart=()=>{if(request===speechRequest)speechStarted=true;};
+  u.onend=()=>{if(request===speechRequest)activeUtterance=null;};
+  u.onerror=(e)=>{
+   if(request!==speechRequest)return;
+   activeUtterance=null;
+   const code=e.error||'unknown';
+   if(code==='canceled'||code==='interrupted')return;
+   toast('朗读失败（'+code+'），请在 Safari 中重试');
+  };
+  synth.speak(u);
+  // iOS may leave synthesis paused after returning from background.
+  if(synth.paused)synth.resume();
+ }catch(e){activeUtterance=null;toast('无法启动朗读：'+(e.message||'请重试'));}
+}
+document.addEventListener('visibilitychange',()=>{
+ if(document.visibilityState==='visible'&&window.speechSynthesis?.paused){
+  try{window.speechSynthesis.resume();}catch(e){}
+ }
+});
 function downloadJson(obj,name){const blob=new Blob([JSON.stringify(obj,null,2)],{type:'application/json;charset=utf-8'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),3000);}
 function validExtra(w){return w&&typeof w==='object'&&['word','ipa','zh','example','exampleZh'].every(k=>typeof w[k]==='string'&&w[k].trim()&&w[k].length<501);}
 async function doImport(file){if(!file||file.size>2_000_000){toast('文件不能超过2MB');return;}try{const obj=JSON.parse(await file.text());const isBackup=obj&&obj.version===1&&obj.records&&obj.daily;

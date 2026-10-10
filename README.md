@@ -54,3 +54,10 @@ category 可为 `daily`、`ev` 或 `mining`，默认 `daily`。
 ## 限制
 - 不含云端账号/跨设备自动同步、消息推送、真人语音录音。
 - 新词不会自动从云端生成；首版 240 词可用于 48 天连续不重复学习，之后再次轮换。
+
+
+## iOS 27 语音修复 (v1.0.1)
+替换 GitHub 仓库根目录中的所有文件，尤其是 index.html 与 service-worker.js。
+部署完成后在 Safari 重新打开，若旧版仍存在，清除该站点的网站数据后重试（清除数据会删除本机学习记录，请先导出备份）。
+修复内容：保留 SpeechSynthesisUtterance 引用、过滤 cancel/interrupted 非实际故障、优先本地英语声音、后台恢复、更新缓存版本。
+系统语音仍取决于 iOS Safari 的 SpeechSynthesis 支持，无法保证所有设备均正常。
