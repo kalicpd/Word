@@ -2158,5 +2158,2165 @@
     "zh": "锚杆",
     "example": "A rock bolt helps stabilize the rock mass.",
     "exampleZh": "锚杆有助于稳定岩体。"
+  },
+  {
+    "id": "daily-081",
+    "category": "daily",
+    "word": "Please hold on",
+    "ipa": "/plˈiz hˈoʊld ˈɑn/",
+    "zh": "请稍等",
+    "example": "Please hold on while I check the details.",
+    "exampleZh": "请稍等，我核实一下详情。"
+  },
+  {
+    "id": "daily-082",
+    "category": "daily",
+    "word": "Can you hear me?",
+    "ipa": "/kˈæn jˈu hˈir mˈi/",
+    "zh": "你能听见我吗？",
+    "example": "Can you hear me clearly on this call?",
+    "exampleZh": "这次通话你能听清楚吗？"
+  },
+  {
+    "id": "daily-083",
+    "category": "daily",
+    "word": "The connection is unstable",
+    "ipa": "/ðʌ kʌnˈɛkʃʌn ˈɪz ʌnstˈeɪbʌl/",
+    "zh": "网络连接不稳定",
+    "example": "The connection is unstable, so I may call back.",
+    "exampleZh": "网络不稳定，我可能会重新拨打。"
+  },
+  {
+    "id": "daily-084",
+    "category": "daily",
+    "word": "Let's keep it simple",
+    "ipa": "/lˈɛts kˈip ˈɪt sˈɪmpʌl/",
+    "zh": "我们尽量简单一点",
+    "example": "Let's keep it simple for the first version.",
+    "exampleZh": "第一版我们尽量做得简单一些。"
+  },
+  {
+    "id": "daily-085",
+    "category": "daily",
+    "word": "I will get back to you",
+    "ipa": "/ˈaɪ wˈɪl ɡˈɛt bˈæk tˈu jˈu/",
+    "zh": "我稍后回复你",
+    "example": "I will get back to you after the meeting.",
+    "exampleZh": "会议结束后我会回复你。"
+  },
+  {
+    "id": "daily-086",
+    "category": "daily",
+    "word": "Please find attached",
+    "ipa": "/plˈiz fˈaɪnd ʌtˈætʃt/",
+    "zh": "请查收附件",
+    "example": "Please find attached the updated drawing.",
+    "exampleZh": "请查收附件中的更新图纸。"
+  },
+  {
+    "id": "daily-087",
+    "category": "daily",
+    "word": "Could you clarify?",
+    "ipa": "/kˈʊd jˈu klˈɛrʌfˌaɪ/",
+    "zh": "你能说明清楚一点吗？",
+    "example": "Could you clarify the acceptance criteria?",
+    "exampleZh": "你能说明一下验收标准吗？"
+  },
+  {
+    "id": "daily-088",
+    "category": "daily",
+    "word": "What is your suggestion?",
+    "ipa": "/wˈʌt ˈɪz jˈɔr sʌdʒˈɛstʃʌn/",
+    "zh": "你有什么建议？",
+    "example": "What is your suggestion for the next step?",
+    "exampleZh": "你对下一步有什么建议？"
+  },
+  {
+    "id": "daily-089",
+    "category": "daily",
+    "word": "Let's make a plan",
+    "ipa": "/lˈɛts mˈeɪk ʌ plˈæn/",
+    "zh": "我们制定一个计划吧",
+    "example": "Let's make a plan for next week.",
+    "exampleZh": "我们制定一个下周的计划吧。"
+  },
+  {
+    "id": "daily-090",
+    "category": "daily",
+    "word": "What is the priority?",
+    "ipa": "/wˈʌt ˈɪz ðʌ praɪˈɔrʌti/",
+    "zh": "优先事项是什么？",
+    "example": "What is the priority for today's work?",
+    "exampleZh": "今天工作的优先事项是什么？"
+  },
+  {
+    "id": "daily-091",
+    "category": "daily",
+    "word": "I will take care of it",
+    "ipa": "/ˈaɪ wˈɪl tˈeɪk kˈɛr ˈʌv ˈɪt/",
+    "zh": "我会处理这件事",
+    "example": "I will take care of it this afternoon.",
+    "exampleZh": "今天下午我会处理这件事。"
+  },
+  {
+    "id": "daily-092",
+    "category": "daily",
+    "word": "We need more information",
+    "ipa": "/wˈi nˈid mˈɔr ˌɪnfɝmˈeɪʃʌn/",
+    "zh": "我们需要更多信息",
+    "example": "We need more information before making a decision.",
+    "exampleZh": "做决定前我们需要更多信息。"
+  },
+  {
+    "id": "daily-093",
+    "category": "daily",
+    "word": "Could you show me?",
+    "ipa": "/kˈʊd jˈu ʃˈoʊ mˈi/",
+    "zh": "你能演示给我看吗？",
+    "example": "Could you show me how to use this tool?",
+    "exampleZh": "你能演示一下这个工具怎么用吗？"
+  },
+  {
+    "id": "daily-094",
+    "category": "daily",
+    "word": "Please double-check",
+    "ipa": "/plˈiz dˈʌbʌl tʃˈɛk/",
+    "zh": "请再次核对",
+    "example": "Please double-check the part number.",
+    "exampleZh": "请再次核对零件编号。"
+  },
+  {
+    "id": "daily-095",
+    "category": "daily",
+    "word": "That makes sense",
+    "ipa": "/ðˈæt mˈeɪks sˈɛns/",
+    "zh": "这很有道理",
+    "example": "That makes sense given the test results.",
+    "exampleZh": "结合测试结果，这很有道理。"
+  },
+  {
+    "id": "daily-096",
+    "category": "daily",
+    "word": "I'm afraid not",
+    "ipa": "/ˈaɪm ʌfrˈeɪd nˈɑt/",
+    "zh": "恐怕不行",
+    "example": "I'm afraid not; the equipment is still under test.",
+    "exampleZh": "恐怕不行，设备还在测试中。"
+  },
+  {
+    "id": "daily-097",
+    "category": "daily",
+    "word": "Let's take a look",
+    "ipa": "/lˈɛts tˈeɪk ʌ lˈʊk/",
+    "zh": "我们来看一下",
+    "example": "Let's take a look at the error log.",
+    "exampleZh": "我们来看一下错误日志。"
+  },
+  {
+    "id": "daily-098",
+    "category": "daily",
+    "word": "What do you think?",
+    "ipa": "/wˈʌt dˈu jˈu θˈɪŋk/",
+    "zh": "你怎么看？",
+    "example": "What do you think about this proposal?",
+    "exampleZh": "你怎么看这个提案？"
+  },
+  {
+    "id": "daily-099",
+    "category": "daily",
+    "word": "Could you send a photo?",
+    "ipa": "/kˈʊd jˈu sˈɛnd ʌ fˈoʊtˌoʊ/",
+    "zh": "你能发张照片吗？",
+    "example": "Could you send a photo of the connector?",
+    "exampleZh": "你能发一张连接器的照片吗？"
+  },
+  {
+    "id": "daily-100",
+    "category": "daily",
+    "word": "It works for me",
+    "ipa": "/ˈɪt wˈɝks fˈɔr mˈi/",
+    "zh": "我觉得可以",
+    "example": "Tuesday morning works for me.",
+    "exampleZh": "周二上午我觉得可以。"
+  },
+  {
+    "id": "daily-101",
+    "category": "daily",
+    "word": "Let's confirm the details",
+    "ipa": "/lˈɛts kʌnfˈɝm ðʌ dɪtˈeɪlz/",
+    "zh": "我们确认一下细节",
+    "example": "Let's confirm the details before ordering.",
+    "exampleZh": "下单前我们确认一下细节。"
+  },
+  {
+    "id": "daily-102",
+    "category": "daily",
+    "word": "Please keep the receipt",
+    "ipa": "/plˈiz kˈip ðʌ rɪsˈit/",
+    "zh": "请保留收据",
+    "example": "Please keep the receipt for reimbursement.",
+    "exampleZh": "请保留收据用于报销。"
+  },
+  {
+    "id": "daily-103",
+    "category": "daily",
+    "word": "Could I get an invoice?",
+    "ipa": "/kˈʊd ˈaɪ ɡˈɛt ˈæn ˈɪnvɔɪs/",
+    "zh": "可以开具发票吗？",
+    "example": "Could I get an invoice for this purchase?",
+    "exampleZh": "这笔采购可以开具发票吗？"
+  },
+  {
+    "id": "daily-104",
+    "category": "daily",
+    "word": "Is there a discount?",
+    "ipa": "/ˈɪz ðˈɛr ʌ dɪskˈaʊnt/",
+    "zh": "有折扣吗？",
+    "example": "Is there a discount for bulk orders?",
+    "exampleZh": "批量订购有折扣吗？"
+  },
+  {
+    "id": "daily-105",
+    "category": "daily",
+    "word": "How long will it take?",
+    "ipa": "/hˈaʊ lˈɔŋ wˈɪl ˈɪt tˈeɪk/",
+    "zh": "需要多长时间？",
+    "example": "How long will it take to finish the repair?",
+    "exampleZh": "完成维修需要多长时间？"
+  },
+  {
+    "id": "daily-106",
+    "category": "daily",
+    "word": "The sooner the better",
+    "ipa": "/ðʌ sˈunɝ ðʌ bˈɛtɝ/",
+    "zh": "越快越好",
+    "example": "We need the spare parts; the sooner the better.",
+    "exampleZh": "我们需要备件，越快越好。"
+  },
+  {
+    "id": "daily-107",
+    "category": "daily",
+    "word": "Please be on time",
+    "ipa": "/plˈiz bˈi ˈɑn tˈaɪm/",
+    "zh": "请准时",
+    "example": "Please be on time for the safety briefing.",
+    "exampleZh": "请准时参加安全交底。"
+  },
+  {
+    "id": "daily-108",
+    "category": "daily",
+    "word": "I missed the meeting",
+    "ipa": "/ˈaɪ mˈɪst ðʌ mˈitɪŋ/",
+    "zh": "我错过了会议",
+    "example": "I missed the meeting because of a site visit.",
+    "exampleZh": "我因为现场走访错过了会议。"
+  },
+  {
+    "id": "daily-109",
+    "category": "daily",
+    "word": "Can we have a quick call?",
+    "ipa": "/kˈæn wˈi hˈæv ʌ kwˈɪk kˈɔl/",
+    "zh": "我们能简短通个电话吗？",
+    "example": "Can we have a quick call to confirm the changes?",
+    "exampleZh": "我们能简短通话确认一下改动吗？"
+  },
+  {
+    "id": "daily-110",
+    "category": "daily",
+    "word": "Please share your screen",
+    "ipa": "/plˈiz ʃˈɛr jˈɔr skrˈin/",
+    "zh": "请共享屏幕",
+    "example": "Please share your screen during the demonstration.",
+    "exampleZh": "演示时请共享屏幕。"
+  },
+  {
+    "id": "daily-111",
+    "category": "daily",
+    "word": "The file is too large",
+    "ipa": "/ðʌ fˈaɪl ˈɪz tˈu lˈɑrdʒ/",
+    "zh": "文件太大了",
+    "example": "The file is too large to send by email.",
+    "exampleZh": "文件太大，无法通过邮件发送。"
+  },
+  {
+    "id": "daily-112",
+    "category": "daily",
+    "word": "I have uploaded the file",
+    "ipa": "/ˈaɪ hˈæv ˈʌplˌoʊdɪd ðʌ fˈaɪl/",
+    "zh": "我已经上传文件",
+    "example": "I have uploaded the file to the shared folder.",
+    "exampleZh": "我已经把文件上传到共享文件夹。"
+  },
+  {
+    "id": "daily-113",
+    "category": "daily",
+    "word": "Could you review this?",
+    "ipa": "/kˈʊd jˈu rˌivjˈu ðˈɪs/",
+    "zh": "你能审核一下吗？",
+    "example": "Could you review this document before Friday?",
+    "exampleZh": "你能在周五前审核这份文件吗？"
+  },
+  {
+    "id": "daily-114",
+    "category": "daily",
+    "word": "We found the cause",
+    "ipa": "/wˈi fˈaʊnd ðʌ kˈɑz/",
+    "zh": "我们找到了原因",
+    "example": "We found the cause of the unexpected shutdown.",
+    "exampleZh": "我们找到了意外停机的原因。"
+  },
+  {
+    "id": "daily-115",
+    "category": "daily",
+    "word": "The issue is resolved",
+    "ipa": "/ðʌ ˈɪʃu ˈɪz rizˈɑlvd/",
+    "zh": "问题已经解决",
+    "example": "The issue is resolved after the update.",
+    "exampleZh": "更新后问题已经解决。"
+  },
+  {
+    "id": "daily-116",
+    "category": "daily",
+    "word": "It needs further testing",
+    "ipa": "/ˈɪt nˈidz fˈɝðɝ tˈɛstɪŋ/",
+    "zh": "还需要进一步测试",
+    "example": "It needs further testing under full load.",
+    "exampleZh": "它还需要在满负载下进一步测试。"
+  },
+  {
+    "id": "daily-117",
+    "category": "daily",
+    "word": "We are making progress",
+    "ipa": "/wˈi ˈɑr mˈeɪkɪŋ prˈɑɡrˌɛs/",
+    "zh": "我们正在取得进展",
+    "example": "We are making progress on the software upgrade.",
+    "exampleZh": "软件升级工作正在取得进展。"
+  },
+  {
+    "id": "daily-118",
+    "category": "daily",
+    "word": "Let's compare the options",
+    "ipa": "/lˈɛts kʌmpˈɛr ðʌ ˈɑpʃʌnz/",
+    "zh": "我们比较一下方案",
+    "example": "Let's compare the options before selecting one.",
+    "exampleZh": "选定方案前我们比较一下各个选项。"
+  },
+  {
+    "id": "daily-119",
+    "category": "daily",
+    "word": "There is a risk",
+    "ipa": "/ðˈɛr ˈɪz ʌ rˈɪsk/",
+    "zh": "存在风险",
+    "example": "There is a risk of delaying the shipment.",
+    "exampleZh": "存在延迟发货的风险。"
+  },
+  {
+    "id": "daily-120",
+    "category": "daily",
+    "word": "We should prepare a backup",
+    "ipa": "/wˈi ʃˈʊd pripˈɛr ʌ bˈækˌʌp/",
+    "zh": "我们应该准备备用方案",
+    "example": "We should prepare a backup in case the test fails.",
+    "exampleZh": "我们应该准备备用方案以防测试失败。"
+  },
+  {
+    "id": "daily-121",
+    "category": "daily",
+    "word": "What's the next step?",
+    "ipa": "/wˈʌts ðʌ nˈɛkst stˈɛp/",
+    "zh": "下一步是什么？",
+    "example": "What's the next step after commissioning?",
+    "exampleZh": "调试完成后下一步是什么？"
+  },
+  {
+    "id": "daily-122",
+    "category": "daily",
+    "word": "Who is responsible?",
+    "ipa": "/hˈu ˈɪz rispˈɑnsʌbʌl/",
+    "zh": "谁负责？",
+    "example": "Who is responsible for this inspection?",
+    "exampleZh": "谁负责这次检查？"
+  },
+  {
+    "id": "daily-123",
+    "category": "daily",
+    "word": "Please update the schedule",
+    "ipa": "/plˈiz ʌpdˈeɪt ðʌ skˈɛdʒʊl/",
+    "zh": "请更新计划",
+    "example": "Please update the schedule after the meeting.",
+    "exampleZh": "会议后请更新计划。"
+  },
+  {
+    "id": "daily-124",
+    "category": "daily",
+    "word": "We need approval",
+    "ipa": "/wˈi nˈid ʌprˈuvʌl/",
+    "zh": "我们需要批准",
+    "example": "We need approval before changing the design.",
+    "exampleZh": "更改设计前我们需要批准。"
+  },
+  {
+    "id": "daily-125",
+    "category": "daily",
+    "word": "I will check with the team",
+    "ipa": "/ˈaɪ wˈɪl tʃˈɛk wˈɪð ðʌ tˈim/",
+    "zh": "我会和团队确认",
+    "example": "I will check with the team and reply tomorrow.",
+    "exampleZh": "我会和团队确认并在明天回复。"
+  },
+  {
+    "id": "daily-126",
+    "category": "daily",
+    "word": "Let's arrange a visit",
+    "ipa": "/lˈɛts ɝˈeɪndʒ ʌ vˈɪzɪt/",
+    "zh": "我们安排一次拜访吧",
+    "example": "Let's arrange a visit to the factory.",
+    "exampleZh": "我们安排一次工厂参观吧。"
+  },
+  {
+    "id": "daily-127",
+    "category": "daily",
+    "word": "Could you recommend a hotel?",
+    "ipa": "/kˈʊd jˈu rˌɛkʌmˈɛnd ʌ hoʊtˈɛl/",
+    "zh": "你能推荐一家酒店吗？",
+    "example": "Could you recommend a hotel near the factory?",
+    "exampleZh": "你能推荐一家工厂附近的酒店吗？"
+  },
+  {
+    "id": "daily-128",
+    "category": "daily",
+    "word": "Where is the entrance?",
+    "ipa": "/wˈɛr ˈɪz ðʌ ˈɛntrʌns/",
+    "zh": "入口在哪里？",
+    "example": "Where is the entrance to the exhibition hall?",
+    "exampleZh": "展馆入口在哪里？"
+  },
+  {
+    "id": "daily-129",
+    "category": "daily",
+    "word": "I have a reservation",
+    "ipa": "/ˈaɪ hˈæv ʌ rˌɛzɝvˈeɪʃʌn/",
+    "zh": "我有预订",
+    "example": "I have a reservation under my company name.",
+    "exampleZh": "我用公司名称做了预订。"
+  },
+  {
+    "id": "daily-130",
+    "category": "daily",
+    "word": "Can I pay by card?",
+    "ipa": "/kˈæn ˈaɪ pˈeɪ bˈaɪ kˈɑrd/",
+    "zh": "可以刷卡吗？",
+    "example": "Can I pay by card at the reception?",
+    "exampleZh": "我可以在前台刷卡吗？"
+  },
+  {
+    "id": "daily-131",
+    "category": "daily",
+    "word": "Please call a taxi",
+    "ipa": "/plˈiz kˈɔl ʌ tˈæksi/",
+    "zh": "请叫一辆出租车",
+    "example": "Please call a taxi to the airport.",
+    "exampleZh": "请叫一辆去机场的出租车。"
+  },
+  {
+    "id": "daily-132",
+    "category": "daily",
+    "word": "What time does it open?",
+    "ipa": "/wˈʌt tˈaɪm dˈʌz ˈɪt ˈoʊpʌn/",
+    "zh": "几点开门？",
+    "example": "What time does the service center open?",
+    "exampleZh": "服务中心几点开门？"
+  },
+  {
+    "id": "daily-133",
+    "category": "daily",
+    "word": "What time does it close?",
+    "ipa": "/wˈʌt tˈaɪm dˈʌz ˈɪt klˈoʊs/",
+    "zh": "几点关门？",
+    "example": "What time does the warehouse close?",
+    "exampleZh": "仓库几点关门？"
+  },
+  {
+    "id": "daily-134",
+    "category": "daily",
+    "word": "I need directions",
+    "ipa": "/ˈaɪ nˈid dɝˈɛkʃʌnz/",
+    "zh": "我需要路线指引",
+    "example": "I need directions to the test site.",
+    "exampleZh": "我需要去测试现场的路线指引。"
+  },
+  {
+    "id": "daily-135",
+    "category": "daily",
+    "word": "Is this the right way?",
+    "ipa": "/ˈɪz ðˈɪs ðʌ rˈaɪt wˈeɪ/",
+    "zh": "这条路对吗？",
+    "example": "Is this the right way to the workshop?",
+    "exampleZh": "这是去车间的路吗？"
+  },
+  {
+    "id": "daily-136",
+    "category": "daily",
+    "word": "Could you wait here?",
+    "ipa": "/kˈʊd jˈu wˈeɪt hˈir/",
+    "zh": "你能在这里等一下吗？",
+    "example": "Could you wait here while I get the keys?",
+    "exampleZh": "我去拿钥匙时你能在这里等一下吗？"
+  },
+  {
+    "id": "daily-137",
+    "category": "daily",
+    "word": "Let's have lunch",
+    "ipa": "/lˈɛts hˈæv lˈʌntʃ/",
+    "zh": "我们去吃午饭吧",
+    "example": "Let's have lunch after the inspection.",
+    "exampleZh": "检查结束后我们去吃午饭吧。"
+  },
+  {
+    "id": "daily-138",
+    "category": "daily",
+    "word": "I'm allergic to peanuts",
+    "ipa": "/ˈaɪm ʌlˈɝdʒɪk tˈu pˈinʌts/",
+    "zh": "我对花生过敏",
+    "example": "I'm allergic to peanuts, so please check the ingredients.",
+    "exampleZh": "我对花生过敏，请确认配料。"
+  },
+  {
+    "id": "daily-139",
+    "category": "daily",
+    "word": "Could I have some water?",
+    "ipa": "/kˈʊd ˈaɪ hˈæv sˈʌm wˈɔtɝ/",
+    "zh": "能给我一些水吗？",
+    "example": "Could I have some water before the meeting?",
+    "exampleZh": "开会前能给我一些水吗？"
+  },
+  {
+    "id": "daily-140",
+    "category": "daily",
+    "word": "Can you make it less spicy?",
+    "ipa": "/kˈæn jˈu mˈeɪk ˈɪt lˈɛs spˈaɪsi/",
+    "zh": "可以少放点辣吗？",
+    "example": "Can you make it less spicy, please?",
+    "exampleZh": "请问可以做得不那么辣吗？"
+  },
+  {
+    "id": "daily-141",
+    "category": "daily",
+    "word": "The bill, please",
+    "ipa": "/ðʌ bˈɪl plˈiz/",
+    "zh": "请结账",
+    "example": "The bill, please, when you have a moment.",
+    "exampleZh": "方便时请帮我们结账。"
+  },
+  {
+    "id": "daily-142",
+    "category": "daily",
+    "word": "I feel a little tired",
+    "ipa": "/ˈaɪ fˈil ʌ lˈɪtʌl tˈaɪɝd/",
+    "zh": "我有点累",
+    "example": "I feel a little tired after the long trip.",
+    "exampleZh": "长途旅行后我有点累。"
+  },
+  {
+    "id": "daily-143",
+    "category": "daily",
+    "word": "I need a short break",
+    "ipa": "/ˈaɪ nˈid ʌ ʃˈɔrt brˈeɪk/",
+    "zh": "我需要短暂休息",
+    "example": "I need a short break before continuing.",
+    "exampleZh": "继续之前我需要短暂休息。"
+  },
+  {
+    "id": "daily-144",
+    "category": "daily",
+    "word": "Let's meet at the lobby",
+    "ipa": "/lˈɛts mˈit ˈæt ðʌ lˈɑbi/",
+    "zh": "我们在大堂见",
+    "example": "Let's meet at the lobby at eight.",
+    "exampleZh": "我们八点在大堂见。"
+  },
+  {
+    "id": "daily-145",
+    "category": "daily",
+    "word": "I'll be there in ten minutes",
+    "ipa": "/ˈaɪl bˈi ðˈɛr ɪn tˈɛn mˈɪnʌts/",
+    "zh": "我十分钟后到",
+    "example": "I'll be there in ten minutes if traffic is clear.",
+    "exampleZh": "如果不堵车，我十分钟后到。"
+  },
+  {
+    "id": "daily-146",
+    "category": "daily",
+    "word": "Please send the location",
+    "ipa": "/plˈiz sˈɛnd ðʌ loʊkˈeɪʃʌn/",
+    "zh": "请发送位置",
+    "example": "Please send the location of the workshop.",
+    "exampleZh": "请发送车间的位置。"
+  },
+  {
+    "id": "daily-147",
+    "category": "daily",
+    "word": "I lost my badge",
+    "ipa": "/ˈaɪ lˈɔst mˈaɪ bˈædʒ/",
+    "zh": "我的工牌丢了",
+    "example": "I lost my badge near the reception desk.",
+    "exampleZh": "我的工牌在前台附近丢了。"
+  },
+  {
+    "id": "daily-148",
+    "category": "daily",
+    "word": "Where can I charge my phone?",
+    "ipa": "/wˈɛr kˈæn ˈaɪ tʃˈɑrdʒ mˈaɪ fˈoʊn/",
+    "zh": "哪里可以给手机充电？",
+    "example": "Where can I charge my phone in this room?",
+    "exampleZh": "这个房间哪里可以给手机充电？"
+  },
+  {
+    "id": "daily-149",
+    "category": "daily",
+    "word": "Do you have a charger?",
+    "ipa": "/dˈu jˈu hˈæv ʌ tʃˈɑrdʒɝ/",
+    "zh": "你有充电器吗？",
+    "example": "Do you have a charger I can borrow?",
+    "exampleZh": "你有可以借用的充电器吗？"
+  },
+  {
+    "id": "daily-150",
+    "category": "daily",
+    "word": "The battery is low",
+    "ipa": "/ðʌ bˈætɝi ˈɪz lˈoʊ/",
+    "zh": "电量低了",
+    "example": "The battery is low on my phone.",
+    "exampleZh": "我的手机电量低了。"
+  },
+  {
+    "id": "daily-151",
+    "category": "daily",
+    "word": "I need internet access",
+    "ipa": "/ˈaɪ nˈid ˈɪntɝnˌɛt ˈæksˌɛs/",
+    "zh": "我需要上网",
+    "example": "I need internet access to download the manual.",
+    "exampleZh": "我需要上网下载手册。"
+  },
+  {
+    "id": "daily-152",
+    "category": "daily",
+    "word": "Could you print this?",
+    "ipa": "/kˈʊd jˈu prˈɪnt ðˈɪs/",
+    "zh": "你能打印一下吗？",
+    "example": "Could you print this checklist for me?",
+    "exampleZh": "你能帮我打印这份检查表吗？"
+  },
+  {
+    "id": "daily-153",
+    "category": "daily",
+    "word": "Let's sign the document",
+    "ipa": "/lˈɛts sˈaɪn ðʌ dˈɑkjʌmɛnt/",
+    "zh": "我们签署文件吧",
+    "example": "Let's sign the document after reviewing it.",
+    "exampleZh": "审核后我们签署文件吧。"
+  },
+  {
+    "id": "daily-154",
+    "category": "daily",
+    "word": "Please check the quantity",
+    "ipa": "/plˈiz tʃˈɛk ðʌ kwˈɑntʌti/",
+    "zh": "请核对数量",
+    "example": "Please check the quantity before receiving the goods.",
+    "exampleZh": "收货前请核对数量。"
+  },
+  {
+    "id": "daily-155",
+    "category": "daily",
+    "word": "The package is damaged",
+    "ipa": "/ðʌ pˈækʌdʒ ˈɪz dˈæmʌdʒd/",
+    "zh": "包装损坏了",
+    "example": "The package is damaged on one side.",
+    "exampleZh": "包装有一侧损坏了。"
+  },
+  {
+    "id": "daily-156",
+    "category": "daily",
+    "word": "We received the shipment",
+    "ipa": "/wˈi rʌsˈivd ðʌ ʃˈɪpmʌnt/",
+    "zh": "我们收到了货物",
+    "example": "We received the shipment this morning.",
+    "exampleZh": "我们今天上午收到了货物。"
+  },
+  {
+    "id": "daily-157",
+    "category": "daily",
+    "word": "Please confirm receipt",
+    "ipa": "/plˈiz kʌnfˈɝm rɪsˈit/",
+    "zh": "请确认收货",
+    "example": "Please confirm receipt of the replacement parts.",
+    "exampleZh": "请确认收到替换零件。"
+  },
+  {
+    "id": "daily-158",
+    "category": "daily",
+    "word": "I appreciate your help",
+    "ipa": "/ˈaɪ ʌprˈiʃiˌeɪt jˈɔr hˈɛlp/",
+    "zh": "感谢你的帮助",
+    "example": "I appreciate your help with this urgent task.",
+    "exampleZh": "感谢你帮助处理这项紧急任务。"
+  },
+  {
+    "id": "daily-159",
+    "category": "daily",
+    "word": "Let's stay focused",
+    "ipa": "/lˈɛts stˈeɪ fˈoʊkʌst/",
+    "zh": "我们保持专注",
+    "example": "Let's stay focused on the main issue.",
+    "exampleZh": "我们专注于主要问题。"
+  },
+  {
+    "id": "daily-160",
+    "category": "daily",
+    "word": "Please check the latest version",
+    "ipa": "/plˈiz tʃˈɛk ðʌ lˈeɪtʌst vˈɝʒʌn/",
+    "zh": "请检查最新版本",
+    "example": "Please check the latest version before installation.",
+    "exampleZh": "安装前请检查最新版本。"
+  },
+  {
+    "id": "ev-081",
+    "category": "ev",
+    "word": "Battery voltage",
+    "ipa": "/bˈætɝi vˈoʊltʌdʒ/",
+    "zh": "电池电压",
+    "example": "Battery voltage is displayed on the dashboard.",
+    "exampleZh": "仪表盘显示电池电压。"
+  },
+  {
+    "id": "ev-082",
+    "category": "ev",
+    "word": "Battery current",
+    "ipa": "/bˈætɝi kˈɝʌnt/",
+    "zh": "电池电流",
+    "example": "Battery current is measured by the BMS.",
+    "exampleZh": "BMS 测量电池电流。"
+  },
+  {
+    "id": "ev-083",
+    "category": "ev",
+    "word": "Pack voltage",
+    "ipa": "/pˈæk vˈoʊltʌdʒ/",
+    "zh": "电池包总电压",
+    "example": "Pack voltage must be checked before precharge.",
+    "exampleZh": "预充前必须检查电池包总电压。"
+  },
+  {
+    "id": "ev-084",
+    "category": "ev",
+    "word": "Cell voltage",
+    "ipa": "/sˈɛl vˈoʊltʌdʒ/",
+    "zh": "单体电芯电压",
+    "example": "Cell voltage differences can indicate imbalance.",
+    "exampleZh": "电芯电压差可能表明不均衡。"
+  },
+  {
+    "id": "ev-085",
+    "category": "ev",
+    "word": "Maximum charge current",
+    "ipa": "/mˈæksʌmʌm tʃˈɑrdʒ kˈɝʌnt/",
+    "zh": "最大允许充电电流",
+    "example": "The BMS reports the maximum charge current.",
+    "exampleZh": "BMS 上报最大允许充电电流。"
+  },
+  {
+    "id": "ev-086",
+    "category": "ev",
+    "word": "Maximum discharge current",
+    "ipa": "/mˈæksʌmʌm dɪstʃˈɑrdʒ kˈɝʌnt/",
+    "zh": "最大允许放电电流",
+    "example": "The controller respects the maximum discharge current.",
+    "exampleZh": "控制器遵守最大允许放电电流。"
+  },
+  {
+    "id": "ev-087",
+    "category": "ev",
+    "word": "Charging power",
+    "ipa": "/tʃˈɑrdʒɪŋ pˈaʊɝ/",
+    "zh": "充电功率",
+    "example": "Charging power decreases near full charge.",
+    "exampleZh": "接近充满时充电功率降低。"
+  },
+  {
+    "id": "ev-088",
+    "category": "ev",
+    "word": "Discharging power",
+    "ipa": "/dɪstʃˈɑrdʒɪŋ pˈaʊɝ/",
+    "zh": "放电功率",
+    "example": "Discharging power increases during acceleration.",
+    "exampleZh": "加速时放电功率增加。"
+  },
+  {
+    "id": "ev-089",
+    "category": "ev",
+    "word": "Battery capacity",
+    "ipa": "/bˈætɝi kʌpˈæsʌti/",
+    "zh": "电池容量",
+    "example": "Battery capacity is measured in kilowatt-hours.",
+    "exampleZh": "电池容量以千瓦时计量。"
+  },
+  {
+    "id": "ev-090",
+    "category": "ev",
+    "word": "Usable capacity",
+    "ipa": "/jˈuzʌbʌl kʌpˈæsʌti/",
+    "zh": "可用容量",
+    "example": "Usable capacity depends on battery limits.",
+    "exampleZh": "可用容量取决于电池限制条件。"
+  },
+  {
+    "id": "ev-091",
+    "category": "ev",
+    "word": "Depth of discharge",
+    "ipa": "/dˈɛpθ ˈʌv dɪstʃˈɑrdʒ/",
+    "zh": "放电深度",
+    "example": "Depth of discharge affects battery life.",
+    "exampleZh": "放电深度影响电池寿命。"
+  },
+  {
+    "id": "ev-092",
+    "category": "ev",
+    "word": "Open-circuit voltage",
+    "ipa": "/ˈoʊpʌn sˈɝkʌt vˈoʊltʌdʒ/",
+    "zh": "开路电压",
+    "example": "Open-circuit voltage can help estimate battery state.",
+    "exampleZh": "开路电压可辅助估计电池状态。"
+  },
+  {
+    "id": "ev-093",
+    "category": "ev",
+    "word": "Internal resistance",
+    "ipa": "/ˌɪntˈɝnʌl rɪzˈɪstʌns/",
+    "zh": "内阻",
+    "example": "Internal resistance may increase as cells age.",
+    "exampleZh": "电芯老化时内阻可能增加。"
+  },
+  {
+    "id": "ev-094",
+    "category": "ev",
+    "word": "Battery enclosure",
+    "ipa": "/bˈætɝi ɛnklˈoʊʒɝ/",
+    "zh": "电池箱体",
+    "example": "The battery enclosure protects the cells.",
+    "exampleZh": "电池箱体保护电芯。"
+  },
+  {
+    "id": "ev-095",
+    "category": "ev",
+    "word": "Battery disconnect unit",
+    "ipa": "/bˈætɝi dɪskʌnˈɛkt jˈunʌt/",
+    "zh": "电池断开单元",
+    "example": "The battery disconnect unit isolates the pack.",
+    "exampleZh": "电池断开单元隔离电池包。"
+  },
+  {
+    "id": "ev-096",
+    "category": "ev",
+    "word": "Contactor feedback",
+    "ipa": "/contactor fˈidbˌæk/",
+    "zh": "接触器反馈",
+    "example": "Contactor feedback confirms the switching state.",
+    "exampleZh": "接触器反馈确认开关状态。"
+  },
+  {
+    "id": "ev-097",
+    "category": "ev",
+    "word": "Contactor welding",
+    "ipa": "/contactor wˈɛldɪŋ/",
+    "zh": "接触器粘连",
+    "example": "Contactor welding is a critical electrical fault.",
+    "exampleZh": "接触器粘连是一种严重电气故障。"
+  },
+  {
+    "id": "ev-098",
+    "category": "ev",
+    "word": "Precharge resistor",
+    "ipa": "/precharge rɪzˈɪstɝ/",
+    "zh": "预充电阻",
+    "example": "The precharge resistor limits the initial current.",
+    "exampleZh": "预充电阻限制初始电流。"
+  },
+  {
+    "id": "ev-099",
+    "category": "ev",
+    "word": "Precharge timeout",
+    "ipa": "/precharge tˈaɪmˌaʊt/",
+    "zh": "预充超时",
+    "example": "A precharge timeout prevents high-voltage activation.",
+    "exampleZh": "预充超时会阻止高压上电。"
+  },
+  {
+    "id": "ev-100",
+    "category": "ev",
+    "word": "DC link capacitor",
+    "ipa": "/dˌisˈi lˈɪŋk kʌpˈæsʌtɝ/",
+    "zh": "直流母线电容",
+    "example": "The DC link capacitor stores electrical energy.",
+    "exampleZh": "直流母线电容储存电能。"
+  },
+  {
+    "id": "ev-101",
+    "category": "ev",
+    "word": "High-voltage enable",
+    "ipa": "/hˈaɪ vˈoʊltʌdʒ ɛnˈeɪbʌl/",
+    "zh": "高压使能",
+    "example": "High-voltage enable is allowed only after safety checks.",
+    "exampleZh": "只有安全检查通过后才允许高压使能。"
+  },
+  {
+    "id": "ev-102",
+    "category": "ev",
+    "word": "High-voltage shutdown",
+    "ipa": "/hˈaɪ vˈoʊltʌdʒ ʃˈʌtdˌaʊn/",
+    "zh": "高压下电",
+    "example": "High-voltage shutdown follows a controlled sequence.",
+    "exampleZh": "高压下电遵循受控时序。"
+  },
+  {
+    "id": "ev-103",
+    "category": "ev",
+    "word": "Isolation monitoring",
+    "ipa": "/ˌaɪsʌlˈeɪʃʌn mˈɑnʌtɝɪŋ/",
+    "zh": "绝缘监测",
+    "example": "Isolation monitoring detects leakage paths.",
+    "exampleZh": "绝缘监测用于发现漏电通路。"
+  },
+  {
+    "id": "ev-104",
+    "category": "ev",
+    "word": "Leakage current",
+    "ipa": "/lˈikʌdʒ kˈɝʌnt/",
+    "zh": "漏电流",
+    "example": "Leakage current must remain within safe limits.",
+    "exampleZh": "漏电流必须保持在安全限值内。"
+  },
+  {
+    "id": "ev-105",
+    "category": "ev",
+    "word": "Ground fault",
+    "ipa": "/ɡrˈaʊnd fˈɔlt/",
+    "zh": "接地故障",
+    "example": "A ground fault can trigger protective shutdown.",
+    "exampleZh": "接地故障可能触发保护停机。"
+  },
+  {
+    "id": "ev-106",
+    "category": "ev",
+    "word": "Charging request",
+    "ipa": "/tʃˈɑrdʒɪŋ rɪkwˈɛst/",
+    "zh": "充电请求",
+    "example": "The BMS sends a charging request to the charger.",
+    "exampleZh": "BMS 向充电机发送充电请求。"
+  },
+  {
+    "id": "ev-107",
+    "category": "ev",
+    "word": "Requested voltage",
+    "ipa": "/rɪkwˈɛstɪd vˈoʊltʌdʒ/",
+    "zh": "请求电压",
+    "example": "The requested voltage is updated during charging.",
+    "exampleZh": "充电过程中会更新请求电压。"
+  },
+  {
+    "id": "ev-108",
+    "category": "ev",
+    "word": "Requested current",
+    "ipa": "/rɪkwˈɛstɪd kˈɝʌnt/",
+    "zh": "请求电流",
+    "example": "The charger follows the requested current within its limits.",
+    "exampleZh": "充电机在能力范围内跟随请求电流。"
+  },
+  {
+    "id": "ev-109",
+    "category": "ev",
+    "word": "Actual charging current",
+    "ipa": "/ˈæktʃʌwʌl tʃˈɑrdʒɪŋ kˈɝʌnt/",
+    "zh": "实际充电电流",
+    "example": "Compare actual charging current with the request.",
+    "exampleZh": "比较实际充电电流与请求值。"
+  },
+  {
+    "id": "ev-110",
+    "category": "ev",
+    "word": "Charging ready signal",
+    "ipa": "/tʃˈɑrdʒɪŋ rˈɛdi sˈɪɡnʌl/",
+    "zh": "充电就绪信号",
+    "example": "The charging ready signal is checked before power transfer.",
+    "exampleZh": "传输功率前检查充电就绪信号。"
+  },
+  {
+    "id": "ev-111",
+    "category": "ev",
+    "word": "Charger output voltage",
+    "ipa": "/tʃˈɑrdʒɝ ˈaʊtpˌʊt vˈoʊltʌdʒ/",
+    "zh": "充电机输出电压",
+    "example": "Charger output voltage rises during startup.",
+    "exampleZh": "启动期间充电机输出电压上升。"
+  },
+  {
+    "id": "ev-112",
+    "category": "ev",
+    "word": "Charger output current",
+    "ipa": "/tʃˈɑrdʒɝ ˈaʊtpˌʊt kˈɝʌnt/",
+    "zh": "充电机输出电流",
+    "example": "Charger output current is limited by the controller.",
+    "exampleZh": "充电机输出电流受控制器限制。"
+  },
+  {
+    "id": "ev-113",
+    "category": "ev",
+    "word": "Charging termination",
+    "ipa": "/tʃˈɑrdʒɪŋ tɝmʌnˈeɪʃʌn/",
+    "zh": "充电终止",
+    "example": "Charging termination follows the communication protocol.",
+    "exampleZh": "充电终止遵循通信协议。"
+  },
+  {
+    "id": "ev-114",
+    "category": "ev",
+    "word": "Charge completion",
+    "ipa": "/tʃˈɑrdʒ kʌmplˈiʃʌn/",
+    "zh": "充电完成",
+    "example": "The display shows charge completion at the end.",
+    "exampleZh": "结束时显示屏显示充电完成。"
+  },
+  {
+    "id": "ev-115",
+    "category": "ev",
+    "word": "Charging fault",
+    "ipa": "/tʃˈɑrdʒɪŋ fˈɔlt/",
+    "zh": "充电故障",
+    "example": "A charging fault stops the power transfer.",
+    "exampleZh": "充电故障会停止功率传输。"
+  },
+  {
+    "id": "ev-116",
+    "category": "ev",
+    "word": "Connector temperature",
+    "ipa": "/kʌnˈɛktɝ tˈɛmprʌtʃɝ/",
+    "zh": "连接器温度",
+    "example": "Connector temperature is monitored during fast charging.",
+    "exampleZh": "快充期间监测连接器温度。"
+  },
+  {
+    "id": "ev-117",
+    "category": "ev",
+    "word": "Cable temperature",
+    "ipa": "/kˈeɪbʌl tˈɛmprʌtʃɝ/",
+    "zh": "电缆温度",
+    "example": "Cable temperature may rise at high current.",
+    "exampleZh": "大电流时电缆温度可能升高。"
+  },
+  {
+    "id": "ev-118",
+    "category": "ev",
+    "word": "Charging pile",
+    "ipa": "/tʃˈɑrdʒɪŋ pˈaɪl/",
+    "zh": "充电桩",
+    "example": "The charging pile reports its operating status.",
+    "exampleZh": "充电桩上报运行状态。"
+  },
+  {
+    "id": "ev-119",
+    "category": "ev",
+    "word": "Charging session",
+    "ipa": "/tʃˈɑrdʒɪŋ sˈɛʃʌn/",
+    "zh": "充电会话",
+    "example": "The charging session ended normally.",
+    "exampleZh": "充电会话正常结束。"
+  },
+  {
+    "id": "ev-120",
+    "category": "ev",
+    "word": "Energy delivered",
+    "ipa": "/ˈɛnɝdʒi dɪlˈɪvɝd/",
+    "zh": "已输送电量",
+    "example": "Energy delivered is recorded for each session.",
+    "exampleZh": "每次会话都会记录已输送电量。"
+  },
+  {
+    "id": "ev-121",
+    "category": "ev",
+    "word": "Drive mode",
+    "ipa": "/drˈaɪv mˈoʊd/",
+    "zh": "驾驶模式",
+    "example": "The driver selects a drive mode on the display.",
+    "exampleZh": "驾驶员在显示屏上选择驾驶模式。"
+  },
+  {
+    "id": "ev-122",
+    "category": "ev",
+    "word": "Eco mode",
+    "ipa": "/ˈikoʊ mˈoʊd/",
+    "zh": "经济模式",
+    "example": "Eco mode reduces unnecessary energy consumption.",
+    "exampleZh": "经济模式减少不必要的能耗。"
+  },
+  {
+    "id": "ev-123",
+    "category": "ev",
+    "word": "Sport mode",
+    "ipa": "/spˈɔrt mˈoʊd/",
+    "zh": "运动模式",
+    "example": "Sport mode provides a faster torque response.",
+    "exampleZh": "运动模式提供更快的扭矩响应。"
+  },
+  {
+    "id": "ev-124",
+    "category": "ev",
+    "word": "Torque limit",
+    "ipa": "/tˈɔrk lˈɪmʌt/",
+    "zh": "扭矩限值",
+    "example": "The torque limit protects the drivetrain.",
+    "exampleZh": "扭矩限值保护传动系统。"
+  },
+  {
+    "id": "ev-125",
+    "category": "ev",
+    "word": "Torque derating",
+    "ipa": "/tˈɔrk derating/",
+    "zh": "扭矩降额",
+    "example": "Torque derating is applied when temperature is high.",
+    "exampleZh": "温度过高时执行扭矩降额。"
+  },
+  {
+    "id": "ev-126",
+    "category": "ev",
+    "word": "Power derating",
+    "ipa": "/pˈaʊɝ derating/",
+    "zh": "功率降额",
+    "example": "Power derating prevents component overheating.",
+    "exampleZh": "功率降额防止部件过热。"
+  },
+  {
+    "id": "ev-127",
+    "category": "ev",
+    "word": "Motor temperature",
+    "ipa": "/mˈoʊtɝ tˈɛmprʌtʃɝ/",
+    "zh": "电机温度",
+    "example": "Motor temperature is used for thermal protection.",
+    "exampleZh": "电机温度用于热保护。"
+  },
+  {
+    "id": "ev-128",
+    "category": "ev",
+    "word": "Inverter temperature",
+    "ipa": "/inverter tˈɛmprʌtʃɝ/",
+    "zh": "逆变器温度",
+    "example": "Inverter temperature rises under heavy load.",
+    "exampleZh": "大负载下逆变器温度上升。"
+  },
+  {
+    "id": "ev-129",
+    "category": "ev",
+    "word": "Rotor position",
+    "ipa": "/rˈoʊtɝ pʌzˈɪʃʌn/",
+    "zh": "转子位置",
+    "example": "Rotor position is needed for motor control.",
+    "exampleZh": "电机控制需要转子位置信息。"
+  },
+  {
+    "id": "ev-130",
+    "category": "ev",
+    "word": "Resolver sensor",
+    "ipa": "/resolver sˈɛnsɝ/",
+    "zh": "旋变传感器",
+    "example": "The resolver sensor measures rotor angle.",
+    "exampleZh": "旋变传感器测量转子角度。"
+  },
+  {
+    "id": "ev-131",
+    "category": "ev",
+    "word": "Phase current",
+    "ipa": "/fˈeɪz kˈɝʌnt/",
+    "zh": "相电流",
+    "example": "Phase current feedback is used by the inverter.",
+    "exampleZh": "逆变器使用相电流反馈。"
+  },
+  {
+    "id": "ev-132",
+    "category": "ev",
+    "word": "Field-oriented control",
+    "ipa": "/fˈild ˈɔriˌɛntʌd kʌntrˈoʊl/",
+    "zh": "磁场定向控制",
+    "example": "Field-oriented control regulates motor torque.",
+    "exampleZh": "磁场定向控制调节电机扭矩。"
+  },
+  {
+    "id": "ev-133",
+    "category": "ev",
+    "word": "Current control loop",
+    "ipa": "/kˈɝʌnt kʌntrˈoʊl lˈup/",
+    "zh": "电流控制环",
+    "example": "The current control loop runs at high frequency.",
+    "exampleZh": "电流控制环以高频运行。"
+  },
+  {
+    "id": "ev-134",
+    "category": "ev",
+    "word": "Speed control loop",
+    "ipa": "/spˈid kʌntrˈoʊl lˈup/",
+    "zh": "转速控制环",
+    "example": "The speed control loop calculates the torque demand.",
+    "exampleZh": "转速控制环计算扭矩需求。"
+  },
+  {
+    "id": "ev-135",
+    "category": "ev",
+    "word": "Proportional integral controller",
+    "ipa": "/prʌpˈɔrʃʌnʌl ˈɪntʌɡrʌl kʌntrˈoʊlɝ/",
+    "zh": "比例积分控制器",
+    "example": "A proportional integral controller reduces steady-state error.",
+    "exampleZh": "比例积分控制器减小稳态误差。"
+  },
+  {
+    "id": "ev-136",
+    "category": "ev",
+    "word": "Motor overspeed",
+    "ipa": "/mˈoʊtɝ overspeed/",
+    "zh": "电机超速",
+    "example": "Motor overspeed protection limits unsafe operation.",
+    "exampleZh": "电机超速保护限制不安全运行。"
+  },
+  {
+    "id": "ev-137",
+    "category": "ev",
+    "word": "Motor stall",
+    "ipa": "/mˈoʊtɝ stˈɔl/",
+    "zh": "电机堵转",
+    "example": "Motor stall may cause excessive current.",
+    "exampleZh": "电机堵转可能引起过大电流。"
+  },
+  {
+    "id": "ev-138",
+    "category": "ev",
+    "word": "Regeneration limit",
+    "ipa": "/ridʒˈɛnɝˈeɪʃʌn lˈɪmʌt/",
+    "zh": "回馈制动限值",
+    "example": "The regeneration limit depends on battery conditions.",
+    "exampleZh": "回馈制动限值取决于电池状态。"
+  },
+  {
+    "id": "ev-139",
+    "category": "ev",
+    "word": "Brake blending",
+    "ipa": "/brˈeɪk blˈɛndɪŋ/",
+    "zh": "制动协调",
+    "example": "Brake blending combines friction and regenerative braking.",
+    "exampleZh": "制动协调结合摩擦制动与能量回收制动。"
+  },
+  {
+    "id": "ev-140",
+    "category": "ev",
+    "word": "Accelerator pedal position",
+    "ipa": "/æksˈɛlɝˌeɪtɝ pˈɛdʌl pʌzˈɪʃʌn/",
+    "zh": "加速踏板位置",
+    "example": "Accelerator pedal position determines driver demand.",
+    "exampleZh": "加速踏板位置决定驾驶员需求。"
+  },
+  {
+    "id": "ev-141",
+    "category": "ev",
+    "word": "Brake pedal position",
+    "ipa": "/brˈeɪk pˈɛdʌl pʌzˈɪʃʌn/",
+    "zh": "制动踏板位置",
+    "example": "Brake pedal position is read by the vehicle controller.",
+    "exampleZh": "整车控制器读取制动踏板位置。"
+  },
+  {
+    "id": "ev-142",
+    "category": "ev",
+    "word": "Vehicle speed",
+    "ipa": "/vˈihɪkʌl spˈid/",
+    "zh": "车速",
+    "example": "Vehicle speed is displayed in kilometers per hour.",
+    "exampleZh": "车速以公里每小时显示。"
+  },
+  {
+    "id": "ev-143",
+    "category": "ev",
+    "word": "Wheel speed sensor",
+    "ipa": "/wˈil spˈid sˈɛnsɝ/",
+    "zh": "轮速传感器",
+    "example": "The wheel speed sensor detects wheel rotation.",
+    "exampleZh": "轮速传感器检测车轮转动。"
+  },
+  {
+    "id": "ev-144",
+    "category": "ev",
+    "word": "CAN baud rate",
+    "ipa": "/kˈæn bˈɔd rˈeɪt/",
+    "zh": "CAN 波特率",
+    "example": "All nodes must use a compatible CAN baud rate.",
+    "exampleZh": "所有节点必须使用兼容的 CAN 波特率。"
+  },
+  {
+    "id": "ev-145",
+    "category": "ev",
+    "word": "CAN termination resistor",
+    "ipa": "/kˈæn tɝmʌnˈeɪʃʌn rɪzˈɪstɝ/",
+    "zh": "CAN 终端电阻",
+    "example": "Check the CAN termination resistor during diagnosis.",
+    "exampleZh": "诊断时检查 CAN 终端电阻。"
+  },
+  {
+    "id": "ev-146",
+    "category": "ev",
+    "word": "Message cycle time",
+    "ipa": "/mˈɛsʌdʒ sˈaɪkʌl tˈaɪm/",
+    "zh": "报文周期时间",
+    "example": "Message cycle time affects communication monitoring.",
+    "exampleZh": "报文周期时间影响通信监测。"
+  },
+  {
+    "id": "ev-147",
+    "category": "ev",
+    "word": "Heartbeat message",
+    "ipa": "/hˈɑrtbˌit mˈɛsʌdʒ/",
+    "zh": "心跳报文",
+    "example": "A heartbeat message confirms controller activity.",
+    "exampleZh": "心跳报文确认控制器运行状态。"
+  },
+  {
+    "id": "ev-148",
+    "category": "ev",
+    "word": "Alive counter",
+    "ipa": "/ʌlˈaɪv kˈaʊntɝ/",
+    "zh": "报文生命计数器",
+    "example": "The alive counter helps detect missing messages.",
+    "exampleZh": "生命计数器有助于发现丢失的报文。"
+  },
+  {
+    "id": "ev-149",
+    "category": "ev",
+    "word": "Checksum validation",
+    "ipa": "/checksum vˌælʌdˈeɪʃʌn/",
+    "zh": "校验和验证",
+    "example": "Checksum validation detects corrupted data.",
+    "exampleZh": "校验和验证可发现数据损坏。"
+  },
+  {
+    "id": "ev-150",
+    "category": "ev",
+    "word": "Signal timeout",
+    "ipa": "/sˈɪɡnʌl tˈaɪmˌaʊt/",
+    "zh": "信号超时",
+    "example": "A signal timeout triggers a fallback strategy.",
+    "exampleZh": "信号超时触发降级策略。"
+  },
+  {
+    "id": "ev-151",
+    "category": "ev",
+    "word": "Fault handling",
+    "ipa": "/fˈɔlt hˈændlɪŋ/",
+    "zh": "故障处理",
+    "example": "Fault handling should preserve safe operation.",
+    "exampleZh": "故障处理应保证安全运行。"
+  },
+  {
+    "id": "ev-152",
+    "category": "ev",
+    "word": "Fallback mode",
+    "ipa": "/fˈɔlbˌæk mˈoʊd/",
+    "zh": "降级运行模式",
+    "example": "Fallback mode limits performance after a fault.",
+    "exampleZh": "故障后降级模式限制性能。"
+  },
+  {
+    "id": "ev-153",
+    "category": "ev",
+    "word": "Range extender start",
+    "ipa": "/rˈeɪndʒ ˈɛkstˌɛndɝ stˈɑrt/",
+    "zh": "增程器启动",
+    "example": "Range extender start is requested at low SOC.",
+    "exampleZh": "低 SOC 时请求启动增程器。"
+  },
+  {
+    "id": "ev-154",
+    "category": "ev",
+    "word": "Range extender stop",
+    "ipa": "/rˈeɪndʒ ˈɛkstˌɛndɝ stˈɑp/",
+    "zh": "增程器停机",
+    "example": "Range extender stop requires a safe shutdown sequence.",
+    "exampleZh": "增程器停机需要安全停机时序。"
+  },
+  {
+    "id": "ev-155",
+    "category": "ev",
+    "word": "Generator unload request",
+    "ipa": "/dʒˈɛnɝˌeɪtɝ ʌnlˈoʊd rɪkwˈɛst/",
+    "zh": "发电机卸载请求",
+    "example": "A generator unload request reduces output before stopping.",
+    "exampleZh": "发电机卸载请求在停机前降低输出。"
+  },
+  {
+    "id": "ev-156",
+    "category": "ev",
+    "word": "Generator efficiency",
+    "ipa": "/dʒˈɛnɝˌeɪtɝ ɪfˈɪʃʌnsi/",
+    "zh": "发电机效率",
+    "example": "Generator efficiency varies with operating point.",
+    "exampleZh": "发电机效率随工况点变化。"
+  },
+  {
+    "id": "ev-157",
+    "category": "ev",
+    "word": "SOC target",
+    "ipa": "/soc tˈɑrɡʌt/",
+    "zh": "SOC 目标值",
+    "example": "The SOC target is adjusted by energy management.",
+    "exampleZh": "能量管理策略调整 SOC 目标值。"
+  },
+  {
+    "id": "ev-158",
+    "category": "ev",
+    "word": "Power reserve",
+    "ipa": "/pˈaʊɝ rɪzˈɝv/",
+    "zh": "功率储备",
+    "example": "Power reserve is needed for sudden acceleration.",
+    "exampleZh": "突然加速时需要功率储备。"
+  },
+  {
+    "id": "ev-159",
+    "category": "ev",
+    "word": "Energy recovery",
+    "ipa": "/ˈɛnɝdʒi rɪkˈʌvri/",
+    "zh": "能量回收",
+    "example": "Energy recovery improves overall efficiency.",
+    "exampleZh": "能量回收提高整体效率。"
+  },
+  {
+    "id": "ev-160",
+    "category": "ev",
+    "word": "Battery power limit",
+    "ipa": "/bˈætɝi pˈaʊɝ lˈɪmʌt/",
+    "zh": "电池功率限值",
+    "example": "The battery power limit changes with temperature.",
+    "exampleZh": "电池功率限值随温度变化。"
+  },
+  {
+    "id": "mining-081",
+    "category": "mining",
+    "word": "Drill feed",
+    "ipa": "/drˈɪl fˈid/",
+    "zh": "钻进推进机构",
+    "example": "The drill feed moves the rotary head along the mast.",
+    "exampleZh": "钻进推进机构使回转动力头沿桅杆移动。"
+  },
+  {
+    "id": "mining-082",
+    "category": "mining",
+    "word": "Feed speed",
+    "ipa": "/fˈid spˈid/",
+    "zh": "推进速度",
+    "example": "Feed speed is reduced during collaring.",
+    "exampleZh": "开孔时降低推进速度。"
+  },
+  {
+    "id": "mining-083",
+    "category": "mining",
+    "word": "Feed stroke",
+    "ipa": "/fˈid strˈoʊk/",
+    "zh": "推进机构行程",
+    "example": "Feed stroke limits the available travel distance.",
+    "exampleZh": "推进机构行程限制可用移动距离。"
+  },
+  {
+    "id": "mining-084",
+    "category": "mining",
+    "word": "Feed cylinder",
+    "ipa": "/fˈid sˈɪlʌndɝ/",
+    "zh": "推进油缸",
+    "example": "The feed cylinder provides axial force.",
+    "exampleZh": "推进油缸提供轴向力。"
+  },
+  {
+    "id": "mining-085",
+    "category": "mining",
+    "word": "Feed chain",
+    "ipa": "/fˈid tʃˈeɪn/",
+    "zh": "推进链条",
+    "example": "Inspect the feed chain for wear.",
+    "exampleZh": "检查推进链条的磨损情况。"
+  },
+  {
+    "id": "mining-086",
+    "category": "mining",
+    "word": "Feed motor",
+    "ipa": "/fˈid mˈoʊtɝ/",
+    "zh": "推进马达",
+    "example": "The feed motor controls carriage movement.",
+    "exampleZh": "推进马达控制滑架运动。"
+  },
+  {
+    "id": "mining-087",
+    "category": "mining",
+    "word": "Carriage position",
+    "ipa": "/kˈærɪdʒ pʌzˈɪʃʌn/",
+    "zh": "滑架位置",
+    "example": "Carriage position is measured by a sensor.",
+    "exampleZh": "滑架位置由传感器测量。"
+  },
+  {
+    "id": "mining-088",
+    "category": "mining",
+    "word": "Carriage speed",
+    "ipa": "/kˈærɪdʒ spˈid/",
+    "zh": "滑架速度",
+    "example": "Carriage speed is limited near the end stop.",
+    "exampleZh": "接近机械限位时限制滑架速度。"
+  },
+  {
+    "id": "mining-089",
+    "category": "mining",
+    "word": "Mast angle",
+    "ipa": "/mˈæst ˈæŋɡʌl/",
+    "zh": "桅杆角度",
+    "example": "Mast angle is adjusted before drilling.",
+    "exampleZh": "钻进前调整桅杆角度。"
+  },
+  {
+    "id": "mining-090",
+    "category": "mining",
+    "word": "Drilling inclination",
+    "ipa": "/drˈɪlɪŋ ˌɪnklʌnˈeɪʃʌn/",
+    "zh": "钻孔倾角",
+    "example": "Drilling inclination is checked before collaring.",
+    "exampleZh": "开孔前检查钻孔倾角。"
+  },
+  {
+    "id": "mining-091",
+    "category": "mining",
+    "word": "Drilling azimuth",
+    "ipa": "/drˈɪlɪŋ azimuth/",
+    "zh": "钻孔方位角",
+    "example": "Drilling azimuth determines the hole direction.",
+    "exampleZh": "钻孔方位角决定钻孔方向。"
+  },
+  {
+    "id": "mining-092",
+    "category": "mining",
+    "word": "Target depth",
+    "ipa": "/tˈɑrɡʌt dˈɛpθ/",
+    "zh": "目标孔深",
+    "example": "The controller stops drilling at the target depth.",
+    "exampleZh": "控制器在目标孔深停止钻进。"
+  },
+  {
+    "id": "mining-093",
+    "category": "mining",
+    "word": "Measured depth",
+    "ipa": "/mˈɛʒɝd dˈɛpθ/",
+    "zh": "实测孔深",
+    "example": "Measured depth is updated during drilling.",
+    "exampleZh": "钻进过程中更新实测孔深。"
+  },
+  {
+    "id": "mining-094",
+    "category": "mining",
+    "word": "Drilling cycle",
+    "ipa": "/drˈɪlɪŋ sˈaɪkʌl/",
+    "zh": "钻孔循环",
+    "example": "The drilling cycle includes collaring and full-speed drilling.",
+    "exampleZh": "钻孔循环包括开孔和正常钻进。"
+  },
+  {
+    "id": "mining-095",
+    "category": "mining",
+    "word": "Automatic rod adding",
+    "ipa": "/ˌɔtʌmˈætɪk rˈɑd ˈædɪŋ/",
+    "zh": "自动接杆",
+    "example": "Automatic rod adding begins when the feed reaches its limit.",
+    "exampleZh": "推进机构到达行程极限时开始自动接杆。"
+  },
+  {
+    "id": "mining-096",
+    "category": "mining",
+    "word": "Automatic rod removal",
+    "ipa": "/ˌɔtʌmˈætɪk rˈɑd rɪmˈuvʌl/",
+    "zh": "自动卸杆",
+    "example": "Automatic rod removal follows a controlled sequence.",
+    "exampleZh": "自动卸杆遵循受控动作序列。"
+  },
+  {
+    "id": "mining-097",
+    "category": "mining",
+    "word": "Rod magazine",
+    "ipa": "/rˈɑd mˈæɡʌzˌin/",
+    "zh": "钻杆仓",
+    "example": "The rod magazine stores spare drill rods.",
+    "exampleZh": "钻杆仓存放备用钻杆。"
+  },
+  {
+    "id": "mining-098",
+    "category": "mining",
+    "word": "Rod gripper",
+    "ipa": "/rˈɑd ɡrˈɪpˌɝ/",
+    "zh": "抓杆器",
+    "example": "The rod gripper transfers a rod to the drilling axis.",
+    "exampleZh": "抓杆器将钻杆移至钻进轴线。"
+  },
+  {
+    "id": "mining-099",
+    "category": "mining",
+    "word": "Rod alignment",
+    "ipa": "/rˈɑd ʌlˈaɪnmʌnt/",
+    "zh": "钻杆对中",
+    "example": "Rod alignment is checked before threading.",
+    "exampleZh": "旋接螺纹前检查钻杆对中。"
+  },
+  {
+    "id": "mining-100",
+    "category": "mining",
+    "word": "Thread engagement",
+    "ipa": "/θrˈɛd ɛnɡˈeɪdʒmʌnt/",
+    "zh": "螺纹啮合",
+    "example": "Thread engagement must be confirmed before tightening.",
+    "exampleZh": "旋紧前必须确认螺纹啮合。"
+  },
+  {
+    "id": "mining-101",
+    "category": "mining",
+    "word": "Thread separation",
+    "ipa": "/θrˈɛd sˌɛpɝˈeɪʃʌn/",
+    "zh": "螺纹脱开",
+    "example": "A proximity switch confirms thread separation.",
+    "exampleZh": "接近开关确认螺纹脱开。"
+  },
+  {
+    "id": "mining-102",
+    "category": "mining",
+    "word": "Thread lubrication",
+    "ipa": "/θrˈɛd lˌubrɪkˈeɪʃʌn/",
+    "zh": "螺纹润滑",
+    "example": "Thread lubrication reduces wear during connection.",
+    "exampleZh": "螺纹润滑减少连接过程中的磨损。"
+  },
+  {
+    "id": "mining-103",
+    "category": "mining",
+    "word": "Makeup torque",
+    "ipa": "/mˈeɪkˌʌp tˈɔrk/",
+    "zh": "上扣扭矩",
+    "example": "Makeup torque is limited to protect the joint.",
+    "exampleZh": "上扣扭矩受到限制以保护接头。"
+  },
+  {
+    "id": "mining-104",
+    "category": "mining",
+    "word": "Breakout operation",
+    "ipa": "/brˈeɪkˌaʊt ˌɑpɝˈeɪʃʌn/",
+    "zh": "卸扣操作",
+    "example": "Breakout operation starts after the lower rod is secured.",
+    "exampleZh": "固定下方钻杆后开始卸扣操作。"
+  },
+  {
+    "id": "mining-105",
+    "category": "mining",
+    "word": "Joint detection",
+    "ipa": "/dʒˈɔɪnt dɪtˈɛkʃʌn/",
+    "zh": "接头检测",
+    "example": "Joint detection verifies the rod connection state.",
+    "exampleZh": "接头检测确认钻杆连接状态。"
+  },
+  {
+    "id": "mining-106",
+    "category": "mining",
+    "word": "Rod slipping",
+    "ipa": "/rˈɑd slˈɪpɪŋ/",
+    "zh": "钻杆打滑",
+    "example": "Rod slipping can indicate insufficient clamping force.",
+    "exampleZh": "钻杆打滑可能表示夹紧力不足。"
+  },
+  {
+    "id": "mining-107",
+    "category": "mining",
+    "word": "Rod jamming",
+    "ipa": "/rˈɑd dʒˈæmɪŋ/",
+    "zh": "钻杆卡滞",
+    "example": "Rod jamming requires the operator to inspect the mechanism.",
+    "exampleZh": "钻杆卡滞时需要操作员检查机构。"
+  },
+  {
+    "id": "mining-108",
+    "category": "mining",
+    "word": "Rod retrieval",
+    "ipa": "/rˈɑd rɪtrˈivʌl/",
+    "zh": "钻杆回收",
+    "example": "Rod retrieval begins after drilling is complete.",
+    "exampleZh": "钻孔完成后开始回收钻杆。"
+  },
+  {
+    "id": "mining-109",
+    "category": "mining",
+    "word": "Inner tube",
+    "ipa": "/ˈɪnɝ tˈub/",
+    "zh": "内管",
+    "example": "The inner tube collects the core sample.",
+    "exampleZh": "内管收集岩心样品。"
+  },
+  {
+    "id": "mining-110",
+    "category": "mining",
+    "word": "Core barrel",
+    "ipa": "/kˈɔr bˈærʌl/",
+    "zh": "岩心管",
+    "example": "The core barrel holds the core during drilling.",
+    "exampleZh": "岩心管在钻进时容纳岩心。"
+  },
+  {
+    "id": "mining-111",
+    "category": "mining",
+    "word": "Core recovery",
+    "ipa": "/kˈɔr rɪkˈʌvri/",
+    "zh": "岩心采取率",
+    "example": "Core recovery is recorded for each run.",
+    "exampleZh": "每个回次都记录岩心采取率。"
+  },
+  {
+    "id": "mining-112",
+    "category": "mining",
+    "word": "Core lifter",
+    "ipa": "/kˈɔr lˈɪftɝ/",
+    "zh": "卡簧",
+    "example": "The core lifter retains the sample during retrieval.",
+    "exampleZh": "卡簧在提取过程中保持岩心样品。"
+  },
+  {
+    "id": "mining-113",
+    "category": "mining",
+    "word": "Wireline cable",
+    "ipa": "/wˈaɪrlˌaɪn kˈeɪbʌl/",
+    "zh": "绳索取芯钢丝绳",
+    "example": "Inspect the wireline cable before lifting.",
+    "exampleZh": "提升前检查绳索取芯钢丝绳。"
+  },
+  {
+    "id": "mining-114",
+    "category": "mining",
+    "word": "Wireline tension",
+    "ipa": "/wˈaɪrlˌaɪn tˈɛnʃʌn/",
+    "zh": "绳索张力",
+    "example": "Wireline tension is monitored during retrieval.",
+    "exampleZh": "回收过程中监测绳索张力。"
+  },
+  {
+    "id": "mining-115",
+    "category": "mining",
+    "word": "Winch speed",
+    "ipa": "/wˈɪntʃ spˈid/",
+    "zh": "卷扬速度",
+    "example": "Winch speed is reduced near the upper limit.",
+    "exampleZh": "接近上限位时降低卷扬速度。"
+  },
+  {
+    "id": "mining-116",
+    "category": "mining",
+    "word": "Winch brake",
+    "ipa": "/wˈɪntʃ brˈeɪk/",
+    "zh": "卷扬制动器",
+    "example": "The winch brake holds the suspended load.",
+    "exampleZh": "卷扬制动器保持悬吊负载。"
+  },
+  {
+    "id": "mining-117",
+    "category": "mining",
+    "word": "Hoist load",
+    "ipa": "/hˈɔɪst lˈoʊd/",
+    "zh": "提升载荷",
+    "example": "Hoist load must stay within the rated limit.",
+    "exampleZh": "提升载荷必须在额定限值内。"
+  },
+  {
+    "id": "mining-118",
+    "category": "mining",
+    "word": "Load cell",
+    "ipa": "/lˈoʊd sˈɛl/",
+    "zh": "称重传感器",
+    "example": "The load cell measures lifting force.",
+    "exampleZh": "称重传感器测量提升力。"
+  },
+  {
+    "id": "mining-119",
+    "category": "mining",
+    "word": "Rope slack",
+    "ipa": "/rˈoʊp slˈæk/",
+    "zh": "钢丝绳松弛",
+    "example": "Rope slack detection prevents unsafe winding.",
+    "exampleZh": "钢丝绳松弛检测防止不安全卷绕。"
+  },
+  {
+    "id": "mining-120",
+    "category": "mining",
+    "word": "Overwind protection",
+    "ipa": "/overwind prʌtˈɛkʃʌn/",
+    "zh": "过卷保护",
+    "example": "Overwind protection stops the winch near its limit.",
+    "exampleZh": "过卷保护在接近限位时停止卷扬。"
+  },
+  {
+    "id": "mining-121",
+    "category": "mining",
+    "word": "Hydraulic power unit",
+    "ipa": "/haɪdrˈɔlɪk pˈaʊɝ jˈunʌt/",
+    "zh": "液压动力单元",
+    "example": "The hydraulic power unit supplies pressurized oil.",
+    "exampleZh": "液压动力单元提供压力油。"
+  },
+  {
+    "id": "mining-122",
+    "category": "mining",
+    "word": "Hydraulic reservoir",
+    "ipa": "/haɪdrˈɔlɪk rˈɛzʌvwˌɑr/",
+    "zh": "液压油箱",
+    "example": "The hydraulic reservoir stores system oil.",
+    "exampleZh": "液压油箱储存系统用油。"
+  },
+  {
+    "id": "mining-123",
+    "category": "mining",
+    "word": "Suction filter",
+    "ipa": "/sˈʌkʃʌn fˈɪltɝ/",
+    "zh": "吸油滤芯",
+    "example": "A blocked suction filter can damage the pump.",
+    "exampleZh": "吸油滤芯堵塞可能损坏液压泵。"
+  },
+  {
+    "id": "mining-124",
+    "category": "mining",
+    "word": "Pressure relief setting",
+    "ipa": "/prˈɛʃɝ rɪlˈif sˈɛtɪŋ/",
+    "zh": "溢流压力设定值",
+    "example": "Check the pressure relief setting before commissioning.",
+    "exampleZh": "调试前检查溢流压力设定值。"
+  },
+  {
+    "id": "mining-125",
+    "category": "mining",
+    "word": "Pressure drop",
+    "ipa": "/prˈɛʃɝ drˈɑp/",
+    "zh": "压力下降",
+    "example": "A sudden pressure drop may indicate a leak.",
+    "exampleZh": "压力突然下降可能表示泄漏。"
+  },
+  {
+    "id": "mining-126",
+    "category": "mining",
+    "word": "Hydraulic leakage",
+    "ipa": "/haɪdrˈɔlɪk lˈikʌdʒ/",
+    "zh": "液压泄漏",
+    "example": "Hydraulic leakage must be repaired promptly.",
+    "exampleZh": "液压泄漏必须及时修复。"
+  },
+  {
+    "id": "mining-127",
+    "category": "mining",
+    "word": "Flow rate",
+    "ipa": "/flˈoʊ rˈeɪt/",
+    "zh": "流量",
+    "example": "Flow rate determines actuator speed.",
+    "exampleZh": "流量决定执行机构速度。"
+  },
+  {
+    "id": "mining-128",
+    "category": "mining",
+    "word": "Pump displacement",
+    "ipa": "/pˈʌmp dɪsplˈeɪsmʌnt/",
+    "zh": "泵排量",
+    "example": "Pump displacement affects available oil flow.",
+    "exampleZh": "泵排量影响可用油液流量。"
+  },
+  {
+    "id": "mining-129",
+    "category": "mining",
+    "word": "Variable displacement pump",
+    "ipa": "/vˈɛriʌbʌl dɪsplˈeɪsmʌnt pˈʌmp/",
+    "zh": "变量泵",
+    "example": "A variable displacement pump adjusts its output flow.",
+    "exampleZh": "变量泵调节输出流量。"
+  },
+  {
+    "id": "mining-130",
+    "category": "mining",
+    "word": "Load sensing",
+    "ipa": "/lˈoʊd sˈɛnsɪŋ/",
+    "zh": "负载敏感控制",
+    "example": "Load sensing adjusts pump output to demand.",
+    "exampleZh": "负载敏感控制根据需求调整泵输出。"
+  },
+  {
+    "id": "mining-131",
+    "category": "mining",
+    "word": "Proportional valve",
+    "ipa": "/prʌpˈɔrʃʌnʌl vˈælv/",
+    "zh": "比例阀",
+    "example": "The proportional valve controls actuator motion.",
+    "exampleZh": "比例阀控制执行机构动作。"
+  },
+  {
+    "id": "mining-132",
+    "category": "mining",
+    "word": "Solenoid valve",
+    "ipa": "/solenoid vˈælv/",
+    "zh": "电磁阀",
+    "example": "The solenoid valve switches the hydraulic circuit.",
+    "exampleZh": "电磁阀切换液压回路。"
+  },
+  {
+    "id": "mining-133",
+    "category": "mining",
+    "word": "Valve spool",
+    "ipa": "/vˈælv spˈul/",
+    "zh": "阀芯",
+    "example": "A stuck valve spool may prevent movement.",
+    "exampleZh": "阀芯卡滞可能导致无法动作。"
+  },
+  {
+    "id": "mining-134",
+    "category": "mining",
+    "word": "Hydraulic accumulator",
+    "ipa": "/haɪdrˈɔlɪk ʌkjˈumjʌlˌeɪtɝ/",
+    "zh": "液压蓄能器",
+    "example": "The hydraulic accumulator stores pressure energy.",
+    "exampleZh": "液压蓄能器储存压力能。"
+  },
+  {
+    "id": "mining-135",
+    "category": "mining",
+    "word": "Pressure transducer",
+    "ipa": "/prˈɛʃɝ trænsdˈusɝ/",
+    "zh": "压力变送器",
+    "example": "The pressure transducer outputs an electrical signal.",
+    "exampleZh": "压力变送器输出电信号。"
+  },
+  {
+    "id": "mining-136",
+    "category": "mining",
+    "word": "Temperature switch",
+    "ipa": "/tˈɛmprʌtʃɝ swˈɪtʃ/",
+    "zh": "温度开关",
+    "example": "The temperature switch activates the cooling fan.",
+    "exampleZh": "温度开关启动散热风扇。"
+  },
+  {
+    "id": "mining-137",
+    "category": "mining",
+    "word": "Oil level sensor",
+    "ipa": "/ˈɔɪl lˈɛvʌl sˈɛnsɝ/",
+    "zh": "油位传感器",
+    "example": "The oil level sensor warns of low hydraulic oil.",
+    "exampleZh": "油位传感器在液压油不足时报警。"
+  },
+  {
+    "id": "mining-138",
+    "category": "mining",
+    "word": "Oil contamination",
+    "ipa": "/ˈɔɪl kʌntˌæmʌnˈeɪʃʌn/",
+    "zh": "油液污染",
+    "example": "Oil contamination increases component wear.",
+    "exampleZh": "油液污染会加剧部件磨损。"
+  },
+  {
+    "id": "mining-139",
+    "category": "mining",
+    "word": "Filter blockage",
+    "ipa": "/fˈɪltɝ blˈɑkɪdʒ/",
+    "zh": "滤芯堵塞",
+    "example": "Filter blockage raises the differential pressure.",
+    "exampleZh": "滤芯堵塞会增大压差。"
+  },
+  {
+    "id": "mining-140",
+    "category": "mining",
+    "word": "Differential pressure",
+    "ipa": "/dˌɪfɝˈɛnʃʌl prˈɛʃɝ/",
+    "zh": "压差",
+    "example": "Differential pressure is measured across the filter.",
+    "exampleZh": "测量滤芯两端的压差。"
+  },
+  {
+    "id": "mining-141",
+    "category": "mining",
+    "word": "PLC controller",
+    "ipa": "/plc kʌntrˈoʊlɝ/",
+    "zh": "可编程逻辑控制器",
+    "example": "The PLC controller coordinates drilling functions.",
+    "exampleZh": "PLC 控制器协调钻机功能。"
+  },
+  {
+    "id": "mining-142",
+    "category": "mining",
+    "word": "Human machine interface",
+    "ipa": "/hjˈumʌn mʌʃˈin ˈɪntɝfˌeɪs/",
+    "zh": "人机界面",
+    "example": "The human machine interface displays machine status.",
+    "exampleZh": "人机界面显示设备状态。"
+  },
+  {
+    "id": "mining-143",
+    "category": "mining",
+    "word": "Control parameter",
+    "ipa": "/kʌntrˈoʊl pɝˈæmʌtɝ/",
+    "zh": "控制参数",
+    "example": "A control parameter can be changed from the display.",
+    "exampleZh": "可以通过显示屏修改控制参数。"
+  },
+  {
+    "id": "mining-144",
+    "category": "mining",
+    "word": "Parameter setpoint",
+    "ipa": "/pɝˈæmʌtɝ setpoint/",
+    "zh": "参数设定值",
+    "example": "The parameter setpoint is sent to the PLC.",
+    "exampleZh": "参数设定值被发送至 PLC。"
+  },
+  {
+    "id": "mining-145",
+    "category": "mining",
+    "word": "Actual feedback",
+    "ipa": "/ˈæktʃʌwʌl fˈidbˌæk/",
+    "zh": "实际反馈值",
+    "example": "Actual feedback is compared with the command.",
+    "exampleZh": "实际反馈值与指令进行比较。"
+  },
+  {
+    "id": "mining-146",
+    "category": "mining",
+    "word": "Interlock condition",
+    "ipa": "/ˌɪntɝlˈɑk kʌndˈɪʃʌn/",
+    "zh": "联锁条件",
+    "example": "All interlock conditions must be satisfied before motion.",
+    "exampleZh": "动作前必须满足所有联锁条件。"
+  },
+  {
+    "id": "mining-147",
+    "category": "mining",
+    "word": "Sequence timeout",
+    "ipa": "/sˈikwʌns tˈaɪmˌaʊt/",
+    "zh": "流程超时",
+    "example": "Sequence timeout triggers a diagnostic alarm.",
+    "exampleZh": "流程超时会触发诊断报警。"
+  },
+  {
+    "id": "mining-148",
+    "category": "mining",
+    "word": "Retry counter",
+    "ipa": "/ritrˈaɪ kˈaʊntɝ/",
+    "zh": "重试计数器",
+    "example": "The retry counter limits automatic recovery attempts.",
+    "exampleZh": "重试计数器限制自动恢复尝试次数。"
+  },
+  {
+    "id": "mining-149",
+    "category": "mining",
+    "word": "Fault acknowledgment",
+    "ipa": "/fˈɔlt æknˈɑlɪdʒmʌnt/",
+    "zh": "故障确认",
+    "example": "Fault acknowledgment is required after troubleshooting.",
+    "exampleZh": "故障排查后需要确认故障。"
+  },
+  {
+    "id": "mining-150",
+    "category": "mining",
+    "word": "Safe state",
+    "ipa": "/sˈeɪf stˈeɪt/",
+    "zh": "安全状态",
+    "example": "The controller returns to a safe state after a fault.",
+    "exampleZh": "发生故障后控制器返回安全状态。"
+  },
+  {
+    "id": "mining-151",
+    "category": "mining",
+    "word": "Manual override",
+    "ipa": "/mˈænjuʌl ˈoʊvɝrˌaɪd/",
+    "zh": "手动覆盖控制",
+    "example": "Manual override is permitted only under safe conditions.",
+    "exampleZh": "只有满足安全条件才允许手动覆盖控制。"
+  },
+  {
+    "id": "mining-152",
+    "category": "mining",
+    "word": "Commissioning test",
+    "ipa": "/kʌmˈɪʃʌnɪŋ tˈɛst/",
+    "zh": "调试测试",
+    "example": "A commissioning test verifies the new control logic.",
+    "exampleZh": "调试测试验证新的控制逻辑。"
+  },
+  {
+    "id": "mining-153",
+    "category": "mining",
+    "word": "Functional test",
+    "ipa": "/fˈʌŋkʃʌnʌl tˈɛst/",
+    "zh": "功能测试",
+    "example": "The functional test checks every operating mode.",
+    "exampleZh": "功能测试检查每一种运行模式。"
+  },
+  {
+    "id": "mining-154",
+    "category": "mining",
+    "word": "Maintenance interval",
+    "ipa": "/mˈeɪntʌnʌns ˈɪntɝvʌl/",
+    "zh": "维护周期",
+    "example": "Maintenance interval is based on operating hours.",
+    "exampleZh": "维护周期根据运行小时数确定。"
+  },
+  {
+    "id": "mining-155",
+    "category": "mining",
+    "word": "Operating hours",
+    "ipa": "/ˈɑpɝˌeɪtɪŋ ˈaʊɝz/",
+    "zh": "运行小时数",
+    "example": "Operating hours are recorded for service planning.",
+    "exampleZh": "记录运行小时数以制定保养计划。"
+  },
+  {
+    "id": "mining-156",
+    "category": "mining",
+    "word": "Idle hours",
+    "ipa": "/ˈaɪdʌl ˈaʊɝz/",
+    "zh": "怠速小时数",
+    "example": "Idle hours are shown on the maintenance page.",
+    "exampleZh": "怠速小时数显示在保养页面。"
+  },
+  {
+    "id": "mining-157",
+    "category": "mining",
+    "word": "Fuel consumption",
+    "ipa": "/fjˈuʌl kʌnsˈʌmpʃʌn/",
+    "zh": "燃油消耗量",
+    "example": "Fuel consumption is tracked during operation.",
+    "exampleZh": "作业期间跟踪燃油消耗量。"
+  },
+  {
+    "id": "mining-158",
+    "category": "mining",
+    "word": "Diesel exhaust fluid",
+    "ipa": "/dˈisʌl ɪɡzˈɔst flˈuʌd/",
+    "zh": "柴油机尾气处理液",
+    "example": "Diesel exhaust fluid level is monitored by the controller.",
+    "exampleZh": "控制器监测柴油机尾气处理液液位。"
+  },
+  {
+    "id": "mining-159",
+    "category": "mining",
+    "word": "Service reminder",
+    "ipa": "/sˈɝvʌs rimˈaɪndɝ/",
+    "zh": "保养提醒",
+    "example": "A service reminder appears when maintenance is due.",
+    "exampleZh": "保养到期时显示保养提醒。"
+  },
+  {
+    "id": "mining-160",
+    "category": "mining",
+    "word": "Drilling data logging",
+    "ipa": "/drˈɪlɪŋ dˈeɪtʌ lˈɔɡɪŋ/",
+    "zh": "钻进数据记录",
+    "example": "Drilling data logging supports fault analysis.",
+    "exampleZh": "钻进数据记录有助于故障分析。"
   }
 ]
